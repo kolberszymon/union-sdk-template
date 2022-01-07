@@ -30,7 +30,7 @@ Pretty straightforward:
 ```
 npx create-next-app --example "https://github.com/kolberszymon/union-sdk-template/tree/main"
 # or
-yarn create next-app --example "https://github.com/vuongddang/union-sdk-template/tree/main"
+yarn create next-app --example "https://github.com/kolberszymon/union-sdk-template/tree/main"
 ```
 
 ## 2. Install dependencies
