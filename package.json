@@ -8,17 +8,25 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "12.0.7",
+    "@rarible/web3-ethereum": "^0.12.26",
+    "next": "12.0.3",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "tslib": "2.1.0",
+    "web3": "^1.6.1",
+    "@rarible/sdk": "~0.8.7",
+    "@rarible/sdk-wallet-connector": "^0.8.6",
+    "@rixio/atom": "^0.3.9",
+    "@rixio/react": "^0.9.6"
   },
   "devDependencies": {
-    "@types/node": "^17.0.0",
-    "@types/react": "^17.0.37",
+    "@rarible/sdk": "^0.7.15",
+    "@types/node": "^16.11.6",
+    "@types/react": "^17.0.34",
     "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.5",
+    "postcss": "^8.3.11",
     "postcss-import": "^14.0.2",
-    "tailwindcss": "^3.0.5",
-    "typescript": "^4.5.4"
+    "tailwindcss": "^2.2.19",
+    "typescript": "^4.4.4"
   }
 }
